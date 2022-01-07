@@ -1,0 +1,25 @@
+.item-add-form {
+    margin-top: 10px;
+}
+
+.bottom-panel {
+    position: relative;
+}
+
+.bottom-panel .icons {
+    position: absolute;
+    bottom: -60%;
+    width: 100%;
+}
+
+.icons {
+    grid-gap: 10px;
+}
+
+.icons i {
+    cursor: pointer;
+}
+
+.icons i.active {
+    color: red
+}

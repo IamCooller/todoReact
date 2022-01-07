@@ -1,0 +1,10 @@
+.top-panel {
+    margin: 1rem 0;
+}
+
+.search-input {
+    width: auto;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    margin-right: 3px;
+}
